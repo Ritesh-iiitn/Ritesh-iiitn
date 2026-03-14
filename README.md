@@ -183,9 +183,7 @@ const ritesh = {
 
 ---
 
-## 📜 Certifications
 
-- 🏢 **Deloitte Professional Experience Program** — Real-world consulting workflows & analytical problem-solving · [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_694f91acbeda68c473aace32_1766827217292_completion_certificate.pdf)
 
 ---
 
