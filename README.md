@@ -120,15 +120,15 @@ const ritesh = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Mental Health NLP Classifier</h3>
-      <p>NLP classification system analyzing <b>168K+ Reddit posts</b> to detect 8 mental health conditions using BERT, RoBERTa, and ensemble ML models achieving <b>85% accuracy</b>.</p>
+      <h3>⚡ Personalized Feed System</h3>
+      <p>Production-ready social media feed backend simulating <b>Instagram/Twitter feed infrastructure</b> with personalized ranking, Redis caching, social graph & JWT auth.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/BERT-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/XGBoost-red?style=flat-square"/>
-        <img src="https://img.shields.io/badge/NLP-blueviolet?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
       </p>
-      <a href="https://github.com/Ritesh-iiitn/mental-health-nlp-classifier">
+      <a href="https://github.com/Ritesh-iiitn/personalized-feed-system">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
